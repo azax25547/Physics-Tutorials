@@ -1,0 +1,53 @@
+[
+    {
+        "question":"Which one of the following phenomena is used in optical fibers ?",
+        "answer":["Scattering","Succesive Reflection","Refraction","Total Internal Reflection"],
+        "correct_answer":"Total Internal Reflection"
+    },
+    {
+        "question":"The moment of inertia of a body does not depend upon it's: ",
+        "answer":["Axis of rotation","Angular Velocity","Form of Mass","Position of the axis of the rotation"],
+        "correct_answer":"Angular Velocity"
+    },
+    {
+        "question":"The television technology in which a new form of light-emitting crystals which can be printed onto flexible plastic sheets to produce a paper-thin display that can be rolled up and carried in a pocket is:",
+        "answer":["QD-TV","SED-TV","Pixel plus","SlingBox"],
+        "correct_answer":"QD-TV"
+    },
+    {
+        "question":"Which of the following statements is not true regarding LASER ?",
+        "answer":["A LASER is a device that emits light through a process of optical amplification .","LASER beams can be focused to very tiny spots, achieving a very high irradiance","The emitted LASER light is notable for its high degree of dispersive power unattainable using other technologies"," LASER light is used in bar-code scanners"],
+        "correct_answer":"The emitted LASER light is notable for its high degree of dispersive power unattainable using other technologies."
+    },
+    {
+        "question":"If a moving body turns its speed to 1.5 times, what will be the impact on its kinetic energy?",
+        "answer":["will become 1.5 times","will become 3 times","will become 2.25 times","will become 6 times"],
+        "correct_answer":"will become 2.25 times"
+    },
+    {
+        "question":"If an egg with shell is placed in a microwave oven, which among the following would most likely happen?",
+        "answer":["The egg will not get warmed","The egg will get cooked slowly similar to a boiled egg","The egg shell will explode"," The egg shell becomes yellow"],
+        "correct_answer":"The egg shell will explode"
+    },
+    {
+        "question":"Two Flat mirrors are placed at an angle of 60° from each other. How many images will be formed of a Candle placed in between them?",
+        "answer":["3","4","5","6"],
+        "correct_answer":"5"
+    },
+    {
+        "question":"An antenna in a Geostationary satellite should have a minimum beam width of which among the following values to cover the entire earth?",
+        "answer":["8.56°","17.34°","22.16°","23.25°"],
+        "correct_answer":"17.34°"
+    },
+    {
+        "question":"A “Charge-coupled device” in the modern Digital Cameras has replaced which among the following in the traditional Cameras?",
+        "answer":["Lens","Shutter","Photographic film","Flash equipment"],
+        "correct_answer":"Photographic film"
+    },
+    {
+        "question":"A person is standing in front of a wall and makes a sound. What should be the normal minimum distance between the person and the wall , so that the person hears echo?",
+        "answer":["6 meters","13 meters","20 meters","17 meters"],
+        "correct_answer":"17 meters"
+    }
+
+]

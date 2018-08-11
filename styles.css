@@ -1,0 +1,35 @@
+*{
+    font-family: "Roboto",sans-serif;
+}
+#heading{
+    margin:120px 5px 80px 5px;
+}
+#heading span{
+    padding:0.5em;
+    font-family: "Ubuntu",sans-serif;
+    font-size:40px;
+    border: #333 5px solid;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+#heading p{
+    margin-top:30px;
+    margin-left:20px;
+    margin-right:20px;
+    font-family:"Lato",sans-serif;
+    font-size:1.6em;
+}
+.welcome-text span{
+    font-family: 'Spirax',cursive;
+}
+h3{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-shadow:0 0 1px #333;
+}
+
+footer{
+    margin-top:-16px;
+}
+@media(max-width:768px){
+    #sub{margin:0;}
+}

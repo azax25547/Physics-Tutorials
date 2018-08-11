@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Special Quiz</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B"
+        crossorigin="anonymous">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="body">
+
+            <div class="lead text-center w3-red w3-padding-32">
+                   We have conducted a special Test only for you. Take the test and prove yourself How fluent you are in Physics.
+                </div>
+                <br>
+               
+                <div class="lead p-3">
+                    <u>Rules:</u>
+                    <ol class="list-group p-4 ">
+                        <li>There will be 10 questions asked which has 4 multiple choice answers and you have to select one of them.</li>
+                        <li>You will be given 20 minutes to complete the Test.</li>
+                        <li>Each questions Carries 1 mark and in wrong answer or you left them there will be no deduction of marks.</li>
+                        <li>After completing all the answers, submit them. </li>
+                        <li>You can view your result there and correct answers to the questions there.</li>
+                    </ol>
+                </div>
+               
+                    <p class="w3-text w3-padding-16 w3-margin">Before attempting the test can we know your name? &nbsp; &nbsp; <input type="text" name="name" id="name" class="w3-input" placeholder="Your firstname please"> <br> <button id="btn-strt" class="btn btn-primary" onclick="show();">Get Me there</button> </p>
+                    
+                    
+                
+    </div>
+    
+    <!--Its the place where quiz will show-->
+  
+    <div class="p-2" id="quiz" style="display: none">
+        <div id="timer"></div>
+       <br><br>
+        <!--Root Section-->
+        <div id="app"></div>
+        <div id="result"></div>
+        <br>
+        <a href="index.html" style="text-decoration: none;"> <button id="btn-home" class="btn btn-dark">Back 2 Home</button></a>
+       
+        <br>
+        <br>
+        <!--Submit Button-->
+        <button id="btn" class="btn btn-success">Submit</button>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
